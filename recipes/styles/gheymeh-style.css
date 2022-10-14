@@ -1,0 +1,10 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background: rgba(250, 220, 250, 0.329);
+    color: black;
+}
+
+#picture {
+    height: 400px;
+    width: 500px;
+}
